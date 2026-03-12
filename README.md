@@ -1,7 +1,6 @@
 # Hi, I'm **Krish Purmessur** 👋
 
 **Former Full-Stack Software Engineer | Data Analytics Enthusiast | Real-World Problem Solver**  
-*Building scalable web applications that drive community resilience, logistics optimization, and better co-parenting.*
 
 ---
 
@@ -63,12 +62,12 @@ I design and build **end-to-end software solutions** that bridge the gap between
 | Category | Skills |
 |----------|--------|
 | **Languages** | JavaScript/TypeScript, Python, Java, C, SQL, HTML/CSS |
-| **Frontend** | React, Next.js 15 (App Router), Responsive Design, Component Architecture |
-| **Backend** | Node.js, Express, REST APIs, Serverless (Next.js API routes) |
+| **Frontend** | React, Next.js 15, Responsive Design, Component Architecture |
+| **Backend** | Node.js, Express, REST APIs, Serverless |
 | **Databases** | PostgreSQL, NoSQL, Query Optimization, Database Design & Normalization |
 | **Data & Analytics** | Business Intelligence, Data Visualization, ML Fundamentals, Statistical Analysis |
 | **DevOps & Systems** | Git/Version Control, Cloud Computing, Network Management, Docker concepts, CI/CD |
-| **Methodology** | Object-Oriented Design, UML, Agile/SCRUM, Unit Testing (JUnit), TDD |
+| **Methodology** | Object-Oriented Design, UML, Agile/SCRUM, Unit Testing, TDD |
 
 ---
 
@@ -79,8 +78,8 @@ Universidad de La Sabana · Chía, Colombia (2024 – Present)
 
 - Outstanding academic performance in software engineering and data analytics  
 - Completed: Software Engineering, Database Systems, Computer Networks, Business Intelligence  
-- Served as **official academic monitor** for 2+ semesters, mentoring peers in rigorous coursework  
-- Specialized tracks: Software Development, Data Analytics, Cloud Computing, IoT  
+- Served as **official physics monitor** for 2+ semesters, mentoring peers in rigorous coursework  
+- Specialized tracks: Software Development, Data Analytics, Cloud Computing  
 
 **Full Stack Development Certification (In Progress)**  
 FreeCodeCamp · JavaScript algorithms, frameworks, databases, API design, security best practices  
